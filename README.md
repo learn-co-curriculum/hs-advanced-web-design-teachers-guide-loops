@@ -1,12 +1,21 @@
-###SWBATs
+#Loops
 
-####Loops
-+ iterate over arrays using for loops and do while loops
-+ iterate over arrays using loops
+##SWBATs
++ Understand how loops run an operation multiple times
++ Understand how an *exit condition* stops a loop
++ Iterate over arrays using for loops and while loops
++ Convert repeatable tasks into loops
 
-###Lesson Plan
+##Key Points
++ Loops let you repeat a bit of code until an *exit condition* is met
++ A loops exit condition is a boolean statement that is evaluated during each loop, if it's false, the loop stops
++ Loops can be very useful for iterating (stepping through) an array and doing something to each element
++ A loop that doesn't have a valid exit condition will run forever and is called an *infinite loop*. These are bad
 
-####Loops
+##Lesson Plan
+
+###Concept  
+
 + Let’s make a new array but use numbers now. Get an example set from a student and make an integer based array. <b>Ask a few review questions (add a number? index? etc…)</b>
 + Ok, what if we want to do something to each number. Like add one to each number. We could do it manually: numbers[0] = numbers[0] +1, etc. but that would take forever
 + A better way to do this is to set up a little machine with instructions on how to iterate (go through) every number in the array and do something specific to each one.
