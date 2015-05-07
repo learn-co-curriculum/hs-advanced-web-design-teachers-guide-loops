@@ -89,6 +89,8 @@ Let’s walk through each part of this.
 + *What would happen if we didn’t have this condition set?*   
   + We wouldn’t get anywhere! We wouldn’t be iterating at all, because we would just keep trying to change numbers[0] over and over again in an infinite loop.
 
+### Practice
+
 *Everyone create a `iteration.js` doc and try setting up a for loop with a numbers array and alert each number doubled.*
 
 *Do you guys remember what we said yesterday about ALWAYS HAVING YOUR CODE WRAPPED UP IN FUNCTIONS?* 
