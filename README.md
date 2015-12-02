@@ -105,3 +105,5 @@ Let’s do one more practice lab with iteration and strings instead of numbers.
 + Now create a function called `myFavorites()`
 + This function should take in an array of favorites and for each favorite it should alert to the screen something like “The Shawshank Redemption? That is my favorite too!”
 + Now create a new array of your favorite songs. Try calling the `myFavorites()` function with your favorite songs array.
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-loops' data-visibility='hidden'>View this lesson on Learn.co</a>
